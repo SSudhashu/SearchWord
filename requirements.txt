@@ -3,5 +3,4 @@ PyAutoGUI==0.9.50
 opencv_python==4.2.0.34
 Flask==1.1.2
 pytesseract==0.3.4
-skimage==0.0
 gunicorn
